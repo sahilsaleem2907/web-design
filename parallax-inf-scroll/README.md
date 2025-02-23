@@ -2,15 +2,6 @@
 
 Welcome to my project! This is a simple README file to introduce you to the project and provide a quick overview.
 
-## Video Demonstration
-
-Below is a video demonstration of the project in action:
-
-<video controls width="100%">
-  <source src="/public/videos/demo.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
-
 ## Technologies Used
 
 This project was built using the following technologies:
