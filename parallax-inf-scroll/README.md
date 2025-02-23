@@ -7,7 +7,7 @@ Welcome to my project! This is a simple README file to introduce you to the proj
 Below is a video demonstration of the project in action:
 
 <video controls width="100%">
-  <source src="/videos/demo.mov" type="video/mp4">
+  <source src="/public/videos/demo.mov" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
 
@@ -24,11 +24,3 @@ This project was built using the following technologies:
 - **Next.js**: A React framework for server-side rendering and static site generation.
 - **TypeScript (TS)**: For type-safe JavaScript development.
 - **Lenis (React)**: For smooth scrolling effects.
-
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
